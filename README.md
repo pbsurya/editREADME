@@ -2,8 +2,11 @@ HOTEL MANAGEMENT
 
 
 #include <stdio.h>
+
 #include <stdlib.h>
+
 #include <string.h>
+
 
 #define MAX_ROOMS 50
 
